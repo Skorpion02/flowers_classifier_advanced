@@ -128,14 +128,33 @@ Si usas este código, por favor cita el repositorio y a los autores:
 > https://github.com/Skorpion02/flowers_classifier_advanced
 
 ---
+## 📄 Licencia
 
-## 📨 Contacto
+Este proyecto está bajo la licencia [MIT](LICENSE).
 
-¿Dudas o sugerencias?  
-Abre un [issue](https://github.com/Skorpion02/flowers_classifier_advanced/issues) o contacta a los autores vía GitHub.
+---
+
+## 🤝 Contribuciones
+
+¡Contribuciones, issues y sugerencias son bienvenidas!  
+No dudes en abrir un issue o un pull request.
+
+---
+
+## 📬 Contacto
+
+Para dudas o sugerencias, abre un issue o contacta a través de [Skorpion02](https://github.com/Skorpion02).
+
+---
+
+⭐️ **Si te gustó este proyecto, ¡déjale una estrella!**
 
 ---
 
 <div align="center">
   <b>¡Combina lo mejor del Deep Learning Visual y la Ciencia de Datos para clasificar flores como nunca antes!</b>
+</div>
+
+<div align="center">
+  <b>Hecho con ❤️ por Skorpion02</b>
 </div>
